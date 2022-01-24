@@ -4,17 +4,25 @@ using System.Text;
 
 namespace F2M6PROG
 {
-    class Car
+    public enum CarTypes
     {
-        private string name;
+        Hatchback,
+        Hybrid,
+        Electric,
+        Offroad,
+        SUV,
+        Sedan
+    }
 
-        public Car(string Name)
+    public abstract class Car
+    {
+        public string Name { get; private set; }
+        public string Engine { get; private set; }
+
+        public Car(string name, string engine)
         {
-            name = Name;
-        }
-        public string GetName()
-        {
-            return name;
+            Name = name;
+            Engine = engine;
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\appel\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj": {}
+    "C:\\Users\\appel\\OneDrive\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\appel\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj": {
+    "C:\\Users\\appel\\OneDrive\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\appel\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj",
+        "projectUniqueName": "C:\\Users\\appel\\OneDrive\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj",
         "projectName": "F2M6PROG",
-        "projectPath": "C:\\Users\\appel\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj",
+        "projectPath": "C:\\Users\\appel\\OneDrive\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\F2M6PROG.csproj",
         "packagesPath": "C:\\Users\\appel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\appel\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\obj\\",
+        "outputPath": "C:\\Users\\appel\\OneDrive\\Documents\\Shool\\Jaar2\\Periode 2\\F2M6PROG\\F2M6PROG\\F2M6PROG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -7,17 +7,14 @@ namespace F2M6PROG
     {   
         static void Main(string[] args)
         {
-            Garage _garage = new Garage();
+            Garage garage = new Garage();
+            Garage hatchback = new Car("Hatchback", CarTypes.Hatchback);
+            Garage hatchback = new Car("Hatchback", CarTypes.Hatchback);
+            Garage hatchback = new Car("Hatchback", CarTypes.Hatchback);
 
-            Car aCar = new Car("Lancia");
-            Car aCar1 = new Car("Aston Martin");
-
-            _garage.AddCar(aCar);
-            _garage.AddCar(aCar1);
-
-            foreach(Car c in _garage.GetCar())
+            foreach(Car c in garage.GetCar())
             {
-                Console.WriteLine(c.GetName());
+                
             }
                
         }
