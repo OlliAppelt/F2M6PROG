@@ -4,25 +4,26 @@ using System.Text;
 
 namespace F2M6PROG
 {
-    public enum CarTypes
+    public enum CarBrands
     {
-        Hatchback,
-        Hybrid,
-        Electric,
-        Offroad,
-        SUV,
-        Sedan
+        Subaru,
+        Toyota,
+        Ford,
     }
 
     public abstract class Car
     {
         public string Name { get; private set; }
-        public string Engine { get; private set; }
+        public CarBrands Brand { get; private set; }
 
-        public Car(string name, string engine)
+        protected Car(string name, CarBrands types)
         {
             Name = name;
-            Engine = engine;
+            Brand = types;
+        }
+        public string GetName()
+        {
+            return Name;
         }
     }
 }

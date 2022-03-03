@@ -11,3 +11,16 @@ C:\Users\appel\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\De
 C:\Users\appel\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.dll
 C:\Users\appel\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.pdb
 C:\Users\appel\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.genruntimeconfig.cache
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\bin\Debug\netcoreapp3.1\F2M6PROG.exe
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\bin\Debug\netcoreapp3.1\F2M6PROG.deps.json
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\bin\Debug\netcoreapp3.1\F2M6PROG.runtimeconfig.json
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\bin\Debug\netcoreapp3.1\F2M6PROG.runtimeconfig.dev.json
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\bin\Debug\netcoreapp3.1\F2M6PROG.dll
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\bin\Debug\netcoreapp3.1\F2M6PROG.pdb
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.csprojAssemblyReference.cache
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.AssemblyInfoInputs.cache
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.AssemblyInfo.cs
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.csproj.CoreCompileInputs.cache
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.dll
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.pdb
+C:\Users\appel\OneDrive\Documents\Shool\Jaar2\Periode 2\F2M6PROG\F2M6PROG\F2M6PROG\obj\Debug\netcoreapp3.1\F2M6PROG.genruntimeconfig.cache
